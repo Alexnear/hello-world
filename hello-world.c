@@ -5,6 +5,6 @@ int main(void)
   int i;
   
   for (i=0; i < 3; i++)
-  printf("hello,world\n");
+  printf("Hello,world!\n");
   return 0;
 }
